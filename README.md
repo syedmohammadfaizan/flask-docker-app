@@ -11,5 +11,4 @@ flask-docker-app/
 │-- app.py
 │-- requirements.txt
 │-- Dockerfile
-│-- templates/
-│ └── index.
+│-- index.html
