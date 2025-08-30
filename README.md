@@ -7,3 +7,9 @@ It serves a stylish **Hello World** page with professional UI.
 ---
 
 ## 📂 Project Structure  
+flask-docker-app/
+│-- app.py
+│-- requirements.txt
+│-- Dockerfile
+│-- templates/
+│ └── index.
